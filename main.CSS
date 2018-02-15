@@ -1,0 +1,14 @@
+div > li{
+color:red;
+}
+body{
+border: 1px solid #F32134;
+margin: 5px 5px 10px 5px;
+padding: 2px 2px 4px 2px;
+}
+section{
+color:green;
+}
+article{
+color:red;
+}
